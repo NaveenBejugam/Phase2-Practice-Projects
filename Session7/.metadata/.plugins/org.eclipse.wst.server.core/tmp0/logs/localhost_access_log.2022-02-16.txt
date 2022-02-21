@@ -1,0 +1,10 @@
+127.0.0.1 - - [16/Feb/2022:14:02:06 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [16/Feb/2022:14:02:21 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:14:02:21 +0530] "GET /implicitobjects/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:14:02:30 +0530] "POST /implicitobjects/submit.jsp HTTP/1.1" 200 255
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:14:02:32 +0530] "GET /implicitobjects/profile.jsp HTTP/1.1" 200 232
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:14:02:34 +0530] "GET /implicitobjects/logout.jsp HTTP/1.1" 404 740
+127.0.0.1 - - [16/Feb/2022:15:42:07 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:15:42:10 +0530] "GET /springhibintegration/ HTTP/1.1" 200 104
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:15:42:20 +0530] "GET /springhibintegration/productList HTTP/1.1" 200 864
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:15:43:29 +0530] "GET /springhibintegration/productList HTTP/1.1" 200 864

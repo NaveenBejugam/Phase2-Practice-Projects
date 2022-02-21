@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Connectivity.java&apos; to &apos;DatabaseConnectivity/src/com.simplilearnconfig&apos;&#x0D;&#x0A;- Original project: &apos;DatabaseConnectivity&apos;&#x0D;&#x0A;- Destination element: &apos;DatabaseConnectivity/src/com.simplilearnconfig&apos;&#x0D;&#x0A;- Original element: &apos;com.simplilearnconfig.Connectivity.java&apos;" description="Copy compilation unit" destination="/src&lt;com.simplilearnconfig" element1="/src&lt;com.simplilearnconfig{Connectivity.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1644339337949" units="1" version="1.0"/>
+</session>
